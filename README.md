@@ -2,5 +2,5 @@
 - 👀 Estudante de Ciência da Computação!
 - 🌱 Sou programador web/mobile | Flutter, C#, JS, NodeJS, React PHP, MySQL.
 
-  De Boa Vista RR Brasil
+  De Camboriú SC Brasil
 - 📫 samukababora@gmail.com
