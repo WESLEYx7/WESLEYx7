@@ -1,4 +1,4 @@
-- 👋 Olá, sou Samuel Wesley Babora, tenho 22 anos
+- 👋 Olá, sou Samuel Wesley Babora, tenho 23 anos
 - 👀 Estudante de Ciência da Computação!
 - 🌱 Programador web/mobile | JS, NodeJS, React, PHP, MySQL.
 - 👨‍💻 Aprendendo | Kotlin | Java | Flutter
